@@ -1,4 +1,3 @@
-Here is some text
 Another commit for you
 
 Funky
